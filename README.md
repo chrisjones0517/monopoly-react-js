@@ -1,3 +1,5 @@
+This is a Monopoly application currently under construction using a React implementation. The project is extensive, hence the few numbers of similar GitHub projects. Contributors and pull requests are welcome. The application has no plans for monetization, but will showcase the capabilities of Javascript as a programming language, as will as unique React implementations. For any questions, comments, or suggestions, please email me at chrisjones0517@gmail.com.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
